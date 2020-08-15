@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+}
+
+.auth-content {
+    background-color: lightblue;
+}
+
+.okta-form-title o-form-head {
+    font-size: larger;
+}
