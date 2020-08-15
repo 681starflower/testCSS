@@ -5,29 +5,3 @@ body {
 #okta-sign-in .button {
     border: 10px groove;
 }
-
-.auth-content {
-    background-color: lightblue;
-}
-
-.okta-form-title o-form-head {
-    font-size: larger;
-}
-
-.custom-checkbox {
-    background-color: pink;
-    font--size:larger;
-}
-
-.auth-footer {
-    background-color: green;
-}
-
-#okta-signin-submit {
-    background-color: pink;
-}
-
-#okta-sign-in.auth-container .button-primary{
-    background-color: pink;
-}
-
