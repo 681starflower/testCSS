@@ -22,3 +22,8 @@ body {
 #okta-signin-submit {
     background-color: pink;
 }
+
+#okta-sign-in.auth-container .button-primary{
+    background-color: pink;
+}
+
