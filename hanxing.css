@@ -9,3 +9,7 @@ body {
 .okta-form-title o-form-head {
     font-size: larger;
 }
+
+#okta-signin-submit {
+    background-color: pink;
+}
