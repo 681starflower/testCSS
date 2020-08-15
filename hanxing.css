@@ -10,6 +10,15 @@ body {
     font-size: larger;
 }
 
+.custom-checkbox {
+    background-color: pink;
+    font--size:larger;
+}
+
+.auth-footer {
+    background-color: green;
+}
+
 #okta-signin-submit {
     background-color: pink;
 }
