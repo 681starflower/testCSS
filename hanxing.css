@@ -2,6 +2,10 @@ body {
     background-color: lightblue;
 }
 
+#okta-sign-in .button {
+    border: 10px groove;
+}
+
 .auth-content {
     background-color: lightblue;
 }
